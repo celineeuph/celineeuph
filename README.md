@@ -1,0 +1,4 @@
+- 👋 Hi!, I'm @celineeuph, I am currently studying software development at CTP Calle Blancos
+- 🌻 Here I want to upload some projects that I have developed and have seemed complicated or very interesting to program
+- 🌼 Also, I opened this profile on the recommendation of a person who had a presentation at school about his life, and he said that no matter how basic our programs were, everything adds up.
+- 🌷 I really like programming but I know I still have a lot to learn,and I'm in the process of that
